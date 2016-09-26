@@ -1,9 +1,4 @@
-import logging
-
 from bs4 import BeautifulSoup
-
-
-logger = logging.getLogger(__name__)
 
 
 class BeautifulSoupMiddleware(object):

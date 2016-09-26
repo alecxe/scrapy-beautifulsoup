@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='scrapy-beautifulsoup',
-    version='0.0.1',
+    version='0.0.2',
     description='Simple Scrapy middleware to process non-well-formed HTML with BeautifulSoup',
     long_description=open('README.rst').read(),
     keywords='scrapy beautifulsoup html html-parsing web-scraping',
